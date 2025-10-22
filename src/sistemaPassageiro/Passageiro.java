@@ -1,4 +1,4 @@
-package exercicios;
+package sistemaPassageiro;
 
 import java.util.Date;
 

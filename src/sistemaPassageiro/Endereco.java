@@ -1,4 +1,4 @@
-package exercicios;
+package sistemaPassageiro;
 
 public class Endereco {
     private String cep;

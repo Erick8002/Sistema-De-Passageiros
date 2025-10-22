@@ -1,4 +1,4 @@
-package exercicios;
+package sistemaPassageiro;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
